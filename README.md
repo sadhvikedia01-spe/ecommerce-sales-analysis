@@ -12,8 +12,18 @@ This project analyzes e-commerce sales data using Tableau to explore sales trend
 # Tools Used
 - Tableau
 
+## Business Questions
+
+This dashboard aims to answer the following business questions:
+
+- How are sales and profit changing over time?
+- Which product categories and sub-categories contribute the most to sales?
+- Which regions generate the highest sales?
+- What is the overall profitability of the business?
+- How does sales performance change over time?
+  
 # Dashboard Preview
-Dashboard screenshots will be added here.
+![E-Commerce Sales Dashboard](Screenshot%202026-11-25%20175702.png)
 
 # Key Insights
 - Key sales trends will be documented here.
@@ -27,6 +37,4 @@ Dashboard screenshots will be added here.
 Data Analyst | SQL | Python | Tableau
 
 
-## Dashboard Preview
 
-![E-Commerce Sales Dashboard](Screenshot%202026-11-25%20175702.png)
