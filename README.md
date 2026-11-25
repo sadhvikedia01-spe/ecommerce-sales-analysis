@@ -25,3 +25,8 @@ Dashboard screenshots will be added here.
 
 # Author
 Data Analyst | SQL | Python | Tableau
+
+
+## Dashboard Preview
+
+![E-Commerce Sales Dashboard](Screenshot%202026-11-25%20175702.png)
